@@ -1,4 +1,5 @@
 # mern-api
 mern api
 <br>
-Welcome to Darshan Sonwane api repo
+Welcome to Money Matrix api repo
+Author - Darshan Sonwane
